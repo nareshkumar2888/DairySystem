@@ -39,6 +39,7 @@ color:white;
 		<h1>Dairy Management System</h1>
 		<a href="index">Home</a>
 		<a href="login">login</a>
+		<a href="">Go Back</a>
 		
 	</body>
 
